@@ -26,11 +26,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/imdb-sentiment-analysis.git
-cd imdb-sentiment-analysis
-
-# Install dependencies
-pip install -r requirements.txt
+git clone (https://github.com/Tasmia-Naaz/Skillentrix_Intern/edit/main/SentimentAnalysis/)
+cd sentiment-analysis
 
 # Run the notebook
 jupyter notebook IMDB_Sentiment_Analysis.ipynb
@@ -89,7 +86,6 @@ dataset = load_dataset('imdb')  # Auto-downloads — no manual setup needed
 imdb-sentiment-analysis/
 │
 ├── IMDB_Sentiment_Analysis.ipynb   # Main notebook (all steps)
-├── requirements.txt                # Python dependencies
 ├── README.md                       # This file
 ├── p1.PNG                          # Demo screenshot (positive)
 ├── p2.PNG                          # Demo screenshot (negative)
@@ -262,12 +258,4 @@ df['label'] = df['sentiment'].map({'positive': 1, 'negative': 0})
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
-<p align="center">
-  Made with ❤️ | <strong>Skillentrix Technologies</strong>
-</p>
