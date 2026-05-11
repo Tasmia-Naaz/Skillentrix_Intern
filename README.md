@@ -306,16 +306,10 @@ The notebook includes a fully interactive fraud prediction widget at the end:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙏 Acknowledgements
 
 - Dataset provided by [Machine Learning Group — ULB](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
-- Andrea Dal Pozzolo, Olivier Caelen, Reid A. Johnson and Gianluca Bontempi. *Calibrating Probability with Undersampling for Unbalanced Classification.* In Symposium on Computational Intelligence and Data Mining (CIDM), IEEE, 2015
 
 ---
 
